@@ -15,4 +15,4 @@ Installation of necessary Python libraries
 Install imutils  
 `pip install imutils`  
 Install pynetworktables  
-`pip install networktables`  
+`pip install pynetworktables`  
