@@ -16,3 +16,12 @@ Install imutils
 `pip install imutils`  
 Install pynetworktables  
 `pip install pynetworktables`  
+
+Before you run
+--------------
+In the instructions, it has you set up a virtual environment for Python. If you choose to do this, you MUST run  
+`source ~/.profile` and  
+`workon cv`  
+EVERY TIME you want to run the code.  
+I will later add a Bash script that handles automatically running everything on boot.  
+If enough people want it, I'll also create an image to flash-and-go for quick setup (and to handle the inevitable SD card corruption from killing power 30~ times a competition day)
